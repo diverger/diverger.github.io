@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Felix Felicis</title>
+    <link href="http://lab.lepture.com/liquidluck/feed.xml" rel="self" />
+    <link href="http://lab.lepture.com/liquidluck/" />
+    <updated>2014-12-25T13:32:47+08:00</updated>
+    <id>http://lab.lepture.com/liquidluck/</id>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <author><name>nickname</name></author>
+        <link href="http://lab.lepture.com/liquidluck/2012/hello-world.html"/>
+        <published>2012-12-12T00:00:00+08:00</published>
+        <updated>2014-12-25T13:32:47+08:00</updated>
+        <id>http://lab.lepture.com/liquidluck/2012/hello-world.html</id>
+        <category scheme="http://lab.lepture.com/liquidluck/tag/python/" term="python" label="python" />
+        <category scheme="http://lab.lepture.com/liquidluck/tag/code/" term="code" label="code" />
+        <content type="html" xml:base="http://lab.lepture.com/liquidluck/" xml:lang="en">
+            <![CDATA[ <p>Hello World. This is a DEMO post.</p>
+]]>
+        </content>
+    </entry>
+</feed>
