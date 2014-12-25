@@ -6,15 +6,15 @@
 #: for instance: {{site.name}}
 site:
     name: Felix Felicis  # your site name
-    url: "http://lab.lepture.com/liquidluck/"  # your site url
+    url: "http://diverger.github.io/"  # your site url
     # "prefix": "blog",
 
 #: this config defined information of your site
 #: 1. where the resources  2. how should the site be generated
 config:
     source: content
-    output: deploy
-    static: deploy/static
+    output: ../
+    static: ../static
     static_prefix: /static/
     permalink: "{{date.year}}/{{filename}}.html"
     relative_url: false
