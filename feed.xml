@@ -3,9 +3,32 @@
     <title>Felix Felicis</title>
     <link href="http://diverger.github.io/feed.xml" rel="self" />
     <link href="http://diverger.github.io/" />
-    <updated>2014-12-25T20:27:15+08:00</updated>
+    <updated>2014-12-25T21:49:02+08:00</updated>
     <id>http://diverger.github.io/</id>
     <entry>
+        <title type="html"><![CDATA[Merry Christmas]]></title>
+        <author><name>diverger</name></author>
+        <link href="http://diverger.github.io/2014/saint.html"/>
+        <published>2014-12-25T21:47:00+08:00</published>
+        <updated>2014-12-25T21:49:02+08:00</updated>
+        <id>http://diverger.github.io/2014/saint.html</id>
+        <category scheme="http://diverger.github.io/tag/python/" term="python" label="python" />
+        <category scheme="http://diverger.github.io/tag/blog/" term="blog" label="blog" />
+        <category scheme="http://diverger.github.io/tag/web/" term="web" label="web" />
+        <content type="html" xml:base="http://diverger.github.io/" xml:lang="en">
+            <![CDATA[ <p>Merry Christmas!!!!!!!</p>
+
+<pre><code>a {
+    color: black;
+}</code></pre>
+<p><code>css+                         &lt;-------- if code wrapped with 4 `, the code
+a {                                       will be injected to this page
+    color: black;
+}
+</code></p>
+]]>
+        </content>
+    </entry><entry>
         <title type="html"><![CDATA[Happy]]></title>
         <author><name>diverger</name></author>
         <link href="http://diverger.github.io/2014/happy.html"/>
