@@ -63,7 +63,7 @@ theme:
     # you can access theme in template with ``theme`` namespace
     # for instance: {{theme.disqus}}
     vars:
-        "disqus": "diverger.disqus.com"
+        "disqus": "diverger"
         #"analytics": "UA-21475122-1",
 
 #: template variables
