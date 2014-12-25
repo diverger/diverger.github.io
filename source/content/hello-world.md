@@ -6,4 +6,4 @@
 
 ----------------
 
-Hello World. This is a DEMO post.
+Hello World. This is a demo post.
