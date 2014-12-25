@@ -68,9 +68,17 @@ theme = {
     # theme variables are defined by theme creator
     # you can access theme in template with ``theme`` namespace
     # for instance: {{theme.disqus}}
-    "vars": {
-        "disqus": "diverger"
-        #"analytics": "UA-21475122-1",
+    #"vars": {
+    #    "disqus": "diverger",
+    #    #"analytics": "UA-21475122-1",
+    #}
+
+    'vars': {
+        'navigation': [
+            {'name': 'Home', 'link': '/'},
+            {'name': 'Life', 'link': '/life/'},
+        ],
+        'disqus': "diverger"
     }
 }
 
