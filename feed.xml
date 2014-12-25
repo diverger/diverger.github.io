@@ -3,15 +3,15 @@
     <title>Felix Felicis</title>
     <link href="http://diverger.github.io/feed.xml" rel="self" />
     <link href="http://diverger.github.io/" />
-    <updated>2014-12-25T13:32:47+08:00</updated>
+    <updated>2014-12-25T15:37:12+08:00</updated>
     <id>http://diverger.github.io/</id>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <author><name>nickname</name></author>
-        <link href="http://diverger.github.io/2012/hello-world.html"/>
-        <published>2012-12-12T00:00:00+08:00</published>
-        <updated>2014-12-25T13:32:47+08:00</updated>
-        <id>http://diverger.github.io/2012/hello-world.html</id>
+        <link href="http://diverger.github.io/2014/hello-world.html"/>
+        <published>2014-12-25T00:00:00+08:00</published>
+        <updated>2014-12-25T15:37:12+08:00</updated>
+        <id>http://diverger.github.io/2014/hello-world.html</id>
         <category scheme="http://diverger.github.io/tag/python/" term="python" label="python" />
         <category scheme="http://diverger.github.io/tag/code/" term="code" label="code" />
         <content type="html" xml:base="http://diverger.github.io/" xml:lang="en">
