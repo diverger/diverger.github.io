@@ -24,7 +24,7 @@ config:
 
 
 author:
-    default: nickname
+    default: diverger
     vars:
         # key: value
 
