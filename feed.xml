@@ -12,7 +12,7 @@
         <published>2014-12-25T22:05:00+08:00</published>
         <updated>2014-12-26T22:10:39+08:00</updated>
         <id>http://diverger.github.io/2014/tool-chain.html</id>
-        <category scheme="http://diverger.github.io/tag/code/" term="code" label="code" />
+        <category scheme="http://diverger.github.io/tag/#code" term="code" label="code" />
         <content type="html" xml:base="http://diverger.github.io/" xml:lang="en">
             <![CDATA[ <p>工欲善其事，必先利其器。但是这个tool-chain的建立也太他妈的费劲了！！</p>
 ]]>
@@ -24,9 +24,9 @@
         <published>2014-12-25T21:47:00+08:00</published>
         <updated>2014-12-25T21:49:02+08:00</updated>
         <id>http://diverger.github.io/2014/saint.html</id>
-        <category scheme="http://diverger.github.io/tag/python/" term="python" label="python" />
-        <category scheme="http://diverger.github.io/tag/blog/" term="blog" label="blog" />
-        <category scheme="http://diverger.github.io/tag/web/" term="web" label="web" />
+        <category scheme="http://diverger.github.io/tag/#python" term="python" label="python" />
+        <category scheme="http://diverger.github.io/tag/#blog" term="blog" label="blog" />
+        <category scheme="http://diverger.github.io/tag/#web" term="web" label="web" />
         <content type="html" xml:base="http://diverger.github.io/" xml:lang="en">
             <![CDATA[ <p>Merry Christmas!!!!!!!</p>
 
@@ -47,8 +47,8 @@ a {                                       will be injected to this page
         <published>2014-12-25T00:00:00+08:00</published>
         <updated>2014-12-25T20:27:15+08:00</updated>
         <id>http://diverger.github.io/2014/happy.html</id>
-        <category scheme="http://diverger.github.io/tag/python/" term="python" label="python" />
-        <category scheme="http://diverger.github.io/tag/code/" term="code" label="code" />
+        <category scheme="http://diverger.github.io/tag/#python" term="python" label="python" />
+        <category scheme="http://diverger.github.io/tag/#code" term="code" label="code" />
         <content type="html" xml:base="http://diverger.github.io/" xml:lang="en">
             <![CDATA[ <p>Hello World. This is a demo post.</p>
 ]]>
@@ -60,8 +60,8 @@ a {                                       will be injected to this page
         <published>2014-12-25T00:00:00+08:00</published>
         <updated>2014-12-25T20:25:57+08:00</updated>
         <id>http://diverger.github.io/2014/hello-world.html</id>
-        <category scheme="http://diverger.github.io/tag/python/" term="python" label="python" />
-        <category scheme="http://diverger.github.io/tag/code/" term="code" label="code" />
+        <category scheme="http://diverger.github.io/tag/#python" term="python" label="python" />
+        <category scheme="http://diverger.github.io/tag/#code" term="code" label="code" />
         <content type="html" xml:base="http://diverger.github.io/" xml:lang="en">
             <![CDATA[ <p>Hello World. This is a demo post.</p>
 ]]>
