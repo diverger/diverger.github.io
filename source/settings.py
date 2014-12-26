@@ -77,6 +77,7 @@ theme = {
         'navigation': [
             {'name': 'Home', 'link': '/'},
             {'name': 'Life', 'link': '/life/'},
+            {'name': 'Work', 'link': '/Work/'},
         ],
         'disqus': "diverger"
     }
