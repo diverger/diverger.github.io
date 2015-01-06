@@ -3,9 +3,20 @@
     <title>Felix Felicis</title>
     <link href="http://diverger.github.io/feed.xml" rel="self" />
     <link href="http://diverger.github.io/" />
-    <updated>2014-12-26T22:35:42+08:00</updated>
+    <updated>2015-01-06T22:01:11+08:00</updated>
     <id>http://diverger.github.io/</id>
     <entry>
+        <title type="html"><![CDATA[技术原因？]]></title>
+        <author><name>diverger</name></author>
+        <link href="http://diverger.github.io/2015/tech-reason.html"/>
+        <published>2015-01-06T00:00:00+08:00</published>
+        <updated>2015-01-06T22:01:11+08:00</updated>
+        <id>http://diverger.github.io/2015/tech-reason.html</id>
+        <content type="html" xml:base="http://diverger.github.io/" xml:lang="en">
+            <![CDATA[ <p>如果仅仅是因为“技术原因”，那么为什么复播后变得驴唇不对马嘴？而且球都没有了？</p>
+]]>
+        </content>
+    </entry><entry>
         <title type="html"><![CDATA[折腾]]></title>
         <author><name>diverger</name></author>
         <link href="http://diverger.github.io/2014/tool-chain.html"/>
