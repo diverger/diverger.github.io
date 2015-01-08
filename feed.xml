@@ -3,9 +3,20 @@
     <title>Felix Felicis</title>
     <link href="http://diverger.github.io/feed.xml" rel="self" />
     <link href="http://diverger.github.io/" />
-    <updated>2015-01-06T22:01:11+08:00</updated>
+    <updated>2015-01-09T07:30:08+08:00</updated>
     <id>http://diverger.github.io/</id>
     <entry>
+        <title type="html"><![CDATA[Pressure]]></title>
+        <author><name>diverger</name></author>
+        <link href="http://diverger.github.io/2015/pressure.html"/>
+        <published>2015-01-09T07:26:00+08:00</published>
+        <updated>2015-01-09T07:30:08+08:00</updated>
+        <id>http://diverger.github.io/2015/pressure.html</id>
+        <content type="html" xml:base="http://diverger.github.io/" xml:lang="en">
+            <![CDATA[ <p>Sometimes, some pressure may not be bad.</p>
+]]>
+        </content>
+    </entry><entry>
         <title type="html"><![CDATA[技术原因？]]></title>
         <author><name>diverger</name></author>
         <link href="http://diverger.github.io/2015/tech-reason.html"/>
