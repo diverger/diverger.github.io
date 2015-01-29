@@ -3,14 +3,25 @@
     <title>Felix Felicis</title>
     <link href="http://diverger.github.io/life/feed.xml" rel="self" />
     <link href="http://diverger.github.io/life/" />
-    <updated>2015-01-06T22:01:11+08:00</updated>
+    <updated>2015-01-19T14:41:32+08:00</updated>
     <id>http://diverger.github.io/life/</id>
     <entry>
+        <title type="html"><![CDATA[梦]]></title>
+        <author><name>diverger</name></author>
+        <link href="http://diverger.github.io/2015/dream.html"/>
+        <published>2015-01-19T14:36:38+08:00</published>
+        <updated>2015-01-19T14:41:32+08:00</updated>
+        <id>http://diverger.github.io/2015/dream.html</id>
+        <content type="html" xml:base="http://diverger.github.io/" xml:lang="en">
+            <![CDATA[ <p>夏日的午后，婆娑的树影透过窗户照到屋里，洒落在床头，桌上……。好久没有这样的感觉了。少时的记忆，成了今天的一个梦。</p>
+]]>
+        </content>
+    </entry><entry>
         <title type="html"><![CDATA[技术原因？]]></title>
         <author><name>diverger</name></author>
         <link href="http://diverger.github.io/2015/tech-reason.html"/>
         <published>2015-01-06T00:00:00+08:00</published>
-        <updated>2015-01-06T22:01:11+08:00</updated>
+        <updated>2015-01-19T14:35:35+08:00</updated>
         <id>http://diverger.github.io/2015/tech-reason.html</id>
         <content type="html" xml:base="http://diverger.github.io/" xml:lang="en">
             <![CDATA[ <p>如果仅仅是因为“技术原因”，那么为什么复播后变得驴唇不对马嘴？而且球都没有了？</p>
@@ -21,7 +32,7 @@
         <author><name>diverger</name></author>
         <link href="http://diverger.github.io/2014/happy.html"/>
         <published>2014-12-25T00:00:00+08:00</published>
-        <updated>2014-12-25T20:27:15+08:00</updated>
+        <updated>2014-12-26T14:42:23+08:00</updated>
         <id>http://diverger.github.io/2014/happy.html</id>
         <category scheme="http://diverger.github.io/tag/#python" term="python" label="python" />
         <category scheme="http://diverger.github.io/tag/#code" term="code" label="code" />
@@ -34,7 +45,7 @@
         <author><name>diverger</name></author>
         <link href="http://diverger.github.io/2014/hello-world.html"/>
         <published>2014-12-25T00:00:00+08:00</published>
-        <updated>2014-12-25T20:25:57+08:00</updated>
+        <updated>2014-12-25T18:31:45+08:00</updated>
         <id>http://diverger.github.io/2014/hello-world.html</id>
         <category scheme="http://diverger.github.io/tag/#python" term="python" label="python" />
         <category scheme="http://diverger.github.io/tag/#code" term="code" label="code" />

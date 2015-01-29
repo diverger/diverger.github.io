@@ -3,6 +3,7 @@
     <title>Felix Felicis</title>
     <link href="http://diverger.github.io/feed.xml" rel="self" />
     <link href="http://diverger.github.io/" />
+<<<<<<< HEAD
     <updated>2015-01-29T20:22:14+08:00</updated>
     <id>http://diverger.github.io/</id>
     <entry>
@@ -14,6 +15,19 @@
         <id>http://diverger.github.io/2015/systemverilog-vs-vhdl.html</id>
         <content type="html" xml:base="http://diverger.github.io/" xml:lang="en">
             <![CDATA[ <p>SystemVerilog改的越来越像VHDL了，忽然感觉如果把它和VHDL视为两个水火不容的竞争着，那么SystemVerilog应该是个无耻的剽窃者，它很无耻啊。</p>
+=======
+    <updated>2015-01-19T14:41:32+08:00</updated>
+    <id>http://diverger.github.io/</id>
+    <entry>
+        <title type="html"><![CDATA[梦]]></title>
+        <author><name>diverger</name></author>
+        <link href="http://diverger.github.io/2015/dream.html"/>
+        <published>2015-01-19T14:36:38+08:00</published>
+        <updated>2015-01-19T14:41:32+08:00</updated>
+        <id>http://diverger.github.io/2015/dream.html</id>
+        <content type="html" xml:base="http://diverger.github.io/" xml:lang="en">
+            <![CDATA[ <p>夏日的午后，婆娑的树影透过窗户照到屋里，洒落在床头，桌上……。好久没有这样的感觉了。少时的记忆，成了今天的一个梦。</p>
+>>>>>>> f591426f9d2f241ffd851f8a766c90ef9aacbe70
 ]]>
         </content>
     </entry><entry>
@@ -21,7 +35,7 @@
         <author><name>diverger</name></author>
         <link href="http://diverger.github.io/2015/surprise.html"/>
         <published>2015-01-16T22:58:08+08:00</published>
-        <updated>2015-01-16T23:02:49+08:00</updated>
+        <updated>2015-01-19T14:35:35+08:00</updated>
         <id>http://diverger.github.io/2015/surprise.html</id>
         <content type="html" xml:base="http://diverger.github.io/" xml:lang="en">
             <![CDATA[ <p>原来一直相使用的一段代码(FFT)，今天竟然给了我一个惊喜，一个小炸弹.</p>
@@ -32,7 +46,7 @@
         <author><name>diverger</name></author>
         <link href="http://diverger.github.io/2015/pressure.html"/>
         <published>2015-01-09T07:26:00+08:00</published>
-        <updated>2015-01-09T07:30:08+08:00</updated>
+        <updated>2015-01-19T14:35:35+08:00</updated>
         <id>http://diverger.github.io/2015/pressure.html</id>
         <content type="html" xml:base="http://diverger.github.io/" xml:lang="en">
             <![CDATA[ <p>Sometimes, some pressure may not be bad.</p>
@@ -43,7 +57,7 @@
         <author><name>diverger</name></author>
         <link href="http://diverger.github.io/2015/tech-reason.html"/>
         <published>2015-01-06T00:00:00+08:00</published>
-        <updated>2015-01-06T22:01:11+08:00</updated>
+        <updated>2015-01-19T14:35:35+08:00</updated>
         <id>http://diverger.github.io/2015/tech-reason.html</id>
         <content type="html" xml:base="http://diverger.github.io/" xml:lang="en">
             <![CDATA[ <p>如果仅仅是因为“技术原因”，那么为什么复播后变得驴唇不对马嘴？而且球都没有了？</p>
@@ -54,7 +68,7 @@
         <author><name>diverger</name></author>
         <link href="http://diverger.github.io/2014/tool-chain.html"/>
         <published>2014-12-25T22:05:00+08:00</published>
-        <updated>2014-12-26T22:35:42+08:00</updated>
+        <updated>2015-01-19T14:35:35+08:00</updated>
         <id>http://diverger.github.io/2014/tool-chain.html</id>
         <category scheme="http://diverger.github.io/tag/#code" term="code" label="code" />
         <content type="html" xml:base="http://diverger.github.io/" xml:lang="en">
@@ -66,7 +80,7 @@
         <author><name>diverger</name></author>
         <link href="http://diverger.github.io/2014/saint.html"/>
         <published>2014-12-25T21:47:00+08:00</published>
-        <updated>2014-12-25T21:49:02+08:00</updated>
+        <updated>2014-12-26T14:42:23+08:00</updated>
         <id>http://diverger.github.io/2014/saint.html</id>
         <category scheme="http://diverger.github.io/tag/#python" term="python" label="python" />
         <category scheme="http://diverger.github.io/tag/#blog" term="blog" label="blog" />
@@ -89,7 +103,7 @@ a {                                       will be injected to this page
         <author><name>diverger</name></author>
         <link href="http://diverger.github.io/2014/happy.html"/>
         <published>2014-12-25T00:00:00+08:00</published>
-        <updated>2014-12-25T20:27:15+08:00</updated>
+        <updated>2014-12-26T14:42:23+08:00</updated>
         <id>http://diverger.github.io/2014/happy.html</id>
         <category scheme="http://diverger.github.io/tag/#python" term="python" label="python" />
         <category scheme="http://diverger.github.io/tag/#code" term="code" label="code" />
@@ -102,7 +116,7 @@ a {                                       will be injected to this page
         <author><name>diverger</name></author>
         <link href="http://diverger.github.io/2014/hello-world.html"/>
         <published>2014-12-25T00:00:00+08:00</published>
-        <updated>2014-12-25T20:25:57+08:00</updated>
+        <updated>2014-12-25T18:31:45+08:00</updated>
         <id>http://diverger.github.io/2014/hello-world.html</id>
         <category scheme="http://diverger.github.io/tag/#python" term="python" label="python" />
         <category scheme="http://diverger.github.io/tag/#code" term="code" label="code" />
