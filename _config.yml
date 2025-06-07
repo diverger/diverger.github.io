@@ -100,10 +100,9 @@ theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+## GitHub Actions will handle deployment automatically
 deploy:
-  type: git
-  repo: https://github.com/diverger/diverger.github.io.git
-  branch: main
+  type: ''
 
 # Search Database
 search:
