@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Happy</title>
+    <url>/2014/12/25/Happy/</url>
+    <content><![CDATA[<p>Hello World. This is a demo post.</p>
+]]></content>
+      <categories>
+        <category>life</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+        <tag>code</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>梦</title>
+    <url>/2015/01/19/dream/</url>
+    <content><![CDATA[<p>夏日的午后，婆娑的树影透过窗户照到屋里，洒落在床头，桌上……。好久没有这样的感觉了。少时的记忆，成了今天的一个梦。</p>
+]]></content>
+      <categories>
+        <category>life</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2014/12/25/hello-world/</url>
+    <content><![CDATA[<p>Hello World. This is a demo post.</p>
+]]></content>
+      <categories>
+        <category>life</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+        <tag>code</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Pressure</title>
+    <url>/2015/01/09/pressure/</url>
+    <content><![CDATA[<p>Sometimes, some pressure may not be bad.</p>
+]]></content>
+      <categories>
+        <category>work</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Merry Christmas</title>
+    <url>/2014/12/25/saint/</url>
+    <content><![CDATA[<p>Here is the description.</p>
+<hr>
+<p>Merry Christmas!!!!!!!</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">a {</span><br><span class="line">    color: black;</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure>
+
+<figure class="highlight css"><figcaption><span>&lt;-------- if code wrapped with 4 `, the code</span></figcaption><table><tbody><tr><td class="code"><pre><span class="line"><span class="selector-tag">a</span> {                                       will be injected <span class="selector-tag">to</span> this <span class="attribute">page</span></span><br><span class="line">    <span class="attribute">color</span>: black;</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure>]]></content>
+      <tags>
+        <tag>python</tag>
+        <tag>blog</tag>
+        <tag>web</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Surprise</title>
+    <url>/2015/01/16/surprise/</url>
+    <content><![CDATA[<p>原来一直相使用的一段代码 (FFT)，今天竟然给了我一个惊喜，一个小炸弹.</p>
+]]></content>
+      <categories>
+        <category>work</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>无耻的 SystemVerilog</title>
+    <url>/2015/01/29/systemverilog-vs-vhdl/</url>
+    <content><![CDATA[<p>SystemVerilog 改的越来越像 VHDL 了，忽然感觉如果把它和 VHDL 视为两个水火不容的竞争着，那么 SystemVerilog 应该是个无耻的剽窃者，它很无耻啊。</p>
+]]></content>
+      <categories>
+        <category>work</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>技术原因？</title>
+    <url>/2015/01/06/tech-reason/</url>
+    <content><![CDATA[<p>如果仅仅是因为 “技术原因”，那么为什么复播后变得驴唇不对马嘴？而且球都没有了？</p>
+]]></content>
+      <categories>
+        <category>life</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>折腾</title>
+    <url>/2014/12/25/tool-chain/</url>
+    <content><![CDATA[<p>工欲善其事，必先利其器。但是这个 tool-chain 的建立也太他妈的费劲了！！</p>
+]]></content>
+      <categories>
+        <category>work</category>
+      </categories>
+      <tags>
+        <tag>code</tag>
+      </tags>
+  </entry>
+</search>
