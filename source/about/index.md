@@ -1,24 +1,24 @@
 ---
-title: 关于我
+title: About Me
 date: 2025-06-07 17:00:00
 type: about
 ---
 
-## 个人介绍
+## Personal Introduction
 
-欢迎来到我的个人博客！
+Welcome to my personal blog!
 
-这里记录着我的技术学习、生活感悟和一些随想。主要内容包括：
+This is where I record my technical learning, life insights, and some random thoughts. Main content includes:
 
-- **技术分享**: FPGA开发、硬件设计相关的技术文章
-- **生活感悟**: 日常生活中的思考和体会
-- **学习记录**: 各种技术学习过程中的笔记和总结
+- **Technical Sharing**: Technical articles related to FPGA development and hardware design
+- **Life Insights**: Thoughts and experiences from daily life
+- **Learning Records**: Notes and summaries from various technical learning processes
 
-## 联系方式
+## Contact
 
-如果您想与我交流，可以通过以下方式联系我：
+If you would like to communicate with me, you can contact me through the following methods:
 
 - GitHub: [diverger](https://github.com/diverger)
-- Email: [联系邮箱]
+- Email: [Contact Email]
 
-感谢您的访问！
+Thank you for visiting!

@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 个人博客
-subtitle: '思绪与记录'
-description: '个人生活与技术记录'
-keywords: blog, 生活, 技术, 记录
+title: Personal Blog
+subtitle: 'Thoughts and Records'
+description: 'Personal life and technical records'
+keywords: blog, life, technology, records
 author: diverger
-language: zh-CN
-timezone: 'Asia/Shanghai'
+language: en
+timezone: 'UTC'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
